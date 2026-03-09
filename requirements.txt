@@ -1,0 +1,8 @@
+adafruit-circuitpython-dht
+adafruit-circuitpython-mcp3xxx
+RPLCD
+RPi.GPIO
+pandas
+joblib
+requests
+scikit-learn
